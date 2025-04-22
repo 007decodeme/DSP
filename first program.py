@@ -1,0 +1,12 @@
+print("list")
+l1=[1,2,"jagu",3,"mango",2.3]
+print(l1)
+print("Dictionary")
+d1={"a":145,"b":366,"c":395}
+print(d1)
+print("Tuples")
+t1=(100,200,300,400,700,500,800)
+print(t1)
+print("sets")
+s1={10,20,30,40,40,20,30,10,20,60,60}
+print(s1)
